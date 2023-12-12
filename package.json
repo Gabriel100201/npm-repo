@@ -1,0 +1,27 @@
+{
+  "name": "sanjuanui-kit",
+  "version": "1.0.2",
+  "description": "A UI kit for the government of San Juan",
+  "main": "./src/index.js",
+  "browser": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sanjuan",
+    "ui",
+    "design",
+    "government"
+  ],
+  "author": "Gabriel Funes <gabrielfunes100202@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/tu-repositorio.git"
+  },
+  "homepage": "https://github.com/tu-usuario/tu-repositorio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
